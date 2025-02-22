@@ -23,7 +23,7 @@ const Home = () => {
 
       {/* Right Section - Profile Image */}
       <div className="right-section">
-        <img src="/images/profile.jpg" alt="Profile" className="profile-img" />
+        <img src="/images/Profile.jpg" alt="Profile" className="profile-img" />
       </div>
     </section>
   );
