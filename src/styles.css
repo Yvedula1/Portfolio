@@ -729,3 +729,14 @@
 .contact-details a:hover {
   text-decoration: underline;
 }
+/* 🌍 Global Fix */
+html, body {
+  max-width: 100%;
+  overflow-x: hidden; /* Prevent horizontal scrolling */
+}
+
+/* 🌍 Prevent Large Elements from Breaking Layout */
+* {
+  max-width: 100%;
+  box-sizing: border-box;
+}
