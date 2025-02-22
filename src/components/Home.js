@@ -7,12 +7,7 @@ const Home = () => {
       <div className="left-section">
         <h1>Hi, I'm <span className="name-highlight">Yasaswini Vedula</span></h1>
         <p>
-          I am a skilled Full Stack Software Developer with expertise in 
-          JavaScript, React, Java, Python, and AWS. I specialize in 
-          building scalable web applications and solving complex 
-          technical challenges. Passionate about innovation, I deliver 
-          high-performance solutions that drive business success. 
-          Reach out if you would like to know more!
+        Full-stack developer with over 4 years of experience designing and developing scalable web applications. Proficient in both front-end and back-end technologies, with expertise in building responsive and distributed user interfaces. Skilled in RESTful API development, database management, and integrating with backend services. Experienced in collaborating with cross-functional teams to deliver reliable, maintainable, and secure applications.
         </p>
 
         <div className="buttons">
