@@ -8,8 +8,11 @@ const skills = [
   { name: "Python", img: "/images/python.png" },
   //{ name: "Node.js", img: "/images/nodejs.png" },
   { name: "AWS", img: "/images/aws.png" },
- // { name: "Spring Boot", img: "/images/springboot.png" },
-  { name: "SQL", img: "/images/sql.png" }
+  { name: "Nodejs", img: "/images/Nodejs.png" },
+ { name: "Spring Boot", img: "/images/springboot.png" },
+  { name: "SQL", img: "/images/sql.png" },
+  { name: "MongoDB", img: "/images/Mongodb.png" }
+  
 ];
 
 const Skills = () => {

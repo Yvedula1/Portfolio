@@ -1,19 +1,22 @@
-import React from "react";
-
+import React, { useState } from "react";
+//import "./styles.css"; // Ensure your CSS file is imported
 
 const Header = () => {
+  const [menuOpen, setMenuOpen] = useState(false);
+
   return (
     <nav className="navbar">
-      {/* Left Side - Portfolio Text */}
+      {/* Left - Portfolio Title */}
       <div className="nav-left">Portfolio</div>
 
-      {/* Right Side - Navigation Links */}
-      <ul className="nav-right">
+     
+
+      {/* Right - Navigation Links */}
+      <ul className={`nav-right ${menuOpen ? "active" : ""}`}>
         <li><a href="#home">Home</a></li>
         <li><a href="#education">Education</a></li>
         <li><a href="#experience">Experience</a></li>
         <li><a href="#projects">Projects</a></li>
-       
         <li><a href="#contact">Contact</a></li>
       </ul>
     </nav>

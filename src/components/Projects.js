@@ -3,17 +3,18 @@ import React from "react";
 
 const projectsData = [
   {
-    title: "Syndex.ai Media Platform",
-    duration: "2023 - Present",
-    techStack: ["React.js", "Tailwind CSS", ".NET", "Azure"],
+    title: "Student Feedback Management System",
+    duration: "Jan 2024-May 2024",
+    techStack: ["React.js", "RESTful API", ".JavaScript", "JSON", "[AWS S3 & EC2"],
     description: [
-      "Developed an interactive media platform using React.js and Tailwind.",
-      "Integrated authentication and user analytics.",
-      "Optimized performance to reduce load times by 15%.",
-      "Built scalable APIs using .NET."
+      "Architected robust web applications using React, Angular and Spring Boot, hosted on AWS (Amazon S3 and EC2).",
+      "Devised reusable components and RESTful APIs for CRUD operations",
+      "Combined MySQL with JPA and JDBC for secure and efficient database management.",
+      "Orchestrated interactive survey forms using JavaScript, AJAX and JSON."
+
     ],
     image: "/images/syndex.png",
-    github: "https://github.com/YOUR_GITHUB/Syndex",
+    github: "https://github.com/Yvedula1/Projects/tree/main/Full-stack%20Web%20Application%20for%20Student%20Feedback%20Management%20System-React",
     color: "linear-gradient(135deg, #ff9a9e 0%, #fad0c4 100%)"
   },
   {
@@ -27,12 +28,12 @@ const projectsData = [
       "Ensured system security and reliability."
     ],
     image: "/images/airline.png",
-    github: "https://github.com/YOUR_GITHUB/AirlineManagement",
+    github: "https://github.com/Yvedula1/Projects/tree/main/Airline%20Management%20System",
     color: "linear-gradient(135deg, #84fab0 0%, #8fd3f4 100%)"
   },
   {
     title: "E-commerce with AI Recommendations",
-    duration: "2021 - 2022",
+    duration: "Aug 2023 – Dec 2023",
     techStack: ["React", "Node.js", "MongoDB", "TensorFlow.js"],
     description: [
       "Built an AI-powered recommendation system using TensorFlow.js.",
