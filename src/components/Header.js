@@ -2,8 +2,7 @@ import React, { useState } from "react";
 //import "./styles.css"; // Ensure your CSS file is imported
 
 const Header = () => {
-  const [menuOpen, setMenuOpen] = useState(false);
-
+ 
   return (
     <nav className="navbar">
       {/* Left - Portfolio Title */}
