@@ -30,9 +30,9 @@ const experiences = [
     role: "Systems Engineer",
     duration: "2021 — 2022",
     description: [
-      "Developed and customized ABAP programs and interfaces aligning with SAP modules.",
-      "Optimized database structures, improving system performance by 20%.",
-      "Automated key business processes, reducing manual intervention by 30%."
+      "Developed and architected a Supplier & Parts Management Portal using Angular, TypeScript, and SQL, allowing real-time tracking of supplier performance and order processing, improving procurement efficiency by 29%.",
+      "Optimized search and filtering for supplier records, reducing query response time from 6.4s to 2.2s for 500K+ supplier and parts entries, ensuring faster data retrieval.",
+      "Created interactive dashboards with bar charts for order status, line graphs for supplier delivery performance, and heatmaps for issue tracking, reducing manual reporting efforts by 58%"
     ],
     //logo: "/images/infosys.png"
   }
