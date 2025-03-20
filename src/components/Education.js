@@ -9,10 +9,10 @@ const educationData = [
     logo: "/images/gmu.png"
   },
   {
-    university: "Jawaharlal Nehru Technological University",
+    university: "Vignan's Institute Of Information Technology",
     degree: "Bachelor of Technology in Electronics & Communications",
     duration: "2016 — 2020",
-    logo: "/images/jntu.png"
+    logo: "/images/Vignan.png"
   }
 ];
 
