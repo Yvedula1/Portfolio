@@ -7,7 +7,7 @@ const Home = () => {
       <div className="left-section">
         <h1>Hi, I'm <span className="name-highlight">Yasaswini Vedula</span></h1>
         <p>
-        Full-stack developer with over 4 years of experience designing and developing scalable web applications. Proficient in both front-end and back-end technologies, with expertise in building responsive and distributed user interfaces. Skilled in RESTful API development, database management, and integrating with backend services. Experienced in collaborating with cross-functional teams to deliver reliable, maintainable, and secure applications.
+        Full-stack developer with 3+ years of experience in building and implementing interactive platforms using React, Next.js, .NET, Spring Boot, and AWS. Proficient in designing microservices, developing REST APIs, database optimization, cloud deployments, and CI/CD automation. Experienced in developing secure, high-performance applications and collaborating with cross-functional teams and working in agile environments.
         </p>
 
         <div className="buttons">
