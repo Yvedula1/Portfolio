@@ -3,15 +3,16 @@ import React from "react";
 
 const experiences = [
   {
-    company: "Syndex.ai",
-    role: "Frontend Developer (Intern)",
-    duration: "2023 — Present",
+    company: "Tantv Studios",
+    role: "Software Engineer",
+    duration: "2024-2025",
+    Location: "Maryland, USA",
     description: [
-      "Led the development of Syndex.ai, a media platform utilizing ReactJS and Tailwind.",
-      "Implemented user authentication and integrated social sign-ups.",
-      "Optimized page load times by 15% through scalable solutions.",
-      "Developed authentication and content-fetching APIs using .NET.",
-      "Implemented Jest & React Testing Library for UI reliability."
+      "Engineered a scalable microservices-based media platform connecting creators and publishers, using Next.js, Bootstrap, and .NET APIs, improving UI responsiveness and backend efficiency.",
+      "Applied design patterns and architectural principles to optimize system reliability, resulting in a 19% reduction in backend response times through caching and API refactoring.",
+      "Integrated a chatbot using OpenAI API, enabling real-time user interaction and reducing manual searches by 63% for content and improving accessibility.",
+      "Led secure system design by implementing OAuth 2.0 and JWT for role-based access and API protection."
+      
     ],
     //logo: "/images/syndex.png"
   },
@@ -19,9 +20,11 @@ const experiences = [
     company: "Infosys",
     role: "Senior Systems Engineer",
     duration: "2022 — 2023",
+    Location: "Hyderabad, India",
     description: [
-      "Developed a full-stack dashboard for server monitoring using React, Spring Boot, and PostgreSQL.",
-      "Designed reusable React components, reducing development time by 20%."
+      "Designed and coded a real-time server monitoring and alerting system using React and Spring Boot, enabling early detection of system failures and reducing incident response time",
+      "Built interactive dashboards with real-time system metrics and integrated logging tools to monitor CPU usage, memory consumption",
+      "Optimized PostgreSQL database queries with indexing and partitioning, reducing query latency by 30% for high-volume analytics dashboards."
     ],
     //logo: "/images/infosys.png"
   },
@@ -29,10 +32,11 @@ const experiences = [
     company: "Infosys",
     role: "Systems Engineer",
     duration: "2021 — 2022",
+    Location: "Hyderabad, India",
     description: [
-      "Developed and architected a Supplier & Parts Management Portal using Angular, TypeScript, and SQL, allowing real-time tracking of supplier performance and order processing, improving procurement efficiency by 29%.",
-      "Optimized search and filtering for supplier records, reducing query response time from 6.4s to 2.2s for 500K+ supplier and parts entries, ensuring faster data retrieval.",
-      "Created interactive dashboards with bar charts for order status, line graphs for supplier delivery performance, and heatmaps for issue tracking, reducing manual reporting efforts by 58%"
+      "Developed and tailored 15+ ABAP programs, reports, and interfaces to align with business requirements, ensuring integration with SAP modules.",
+      "Restructured database designs, improving system performance and data retrieval efficiency by 20%.",
+      "Improved SAP transactions using BADI and BAPI within the Enhancement Framework, boosting efficiency by 15%."
     ],
     //logo: "/images/infosys.png"
   }
