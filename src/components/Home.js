@@ -12,7 +12,7 @@ const Home = () => {
 
         <div className="buttons">
           <a href="#contact" className="contact-button">Contact Me</a>
-          <a href="/Yasaswini Resume-4.pdf" download className="resume-button">Download My Resume</a>
+          
         </div>
       </div>
 
