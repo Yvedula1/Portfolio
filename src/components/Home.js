@@ -7,7 +7,7 @@ const Home = () => {
       <div className="left-section">
         <h1>Hi, I'm <span className="name-highlight">Yasaswini Vedula</span></h1>
         <p>
-        Full-stack developer with 3+ years of experience in building and implementing interactive platforms using React, Next.js, .NET, Spring Boot, and AWS. Proficient in designing microservices, developing REST APIs, database optimization, cloud deployments, and CI/CD automation. Experienced in developing secure, high-performance applications and collaborating with cross-functional teams and working in agile environments.
+        Full Stack Developer with 3+ years of experience building scalable, cloud-native web applications with expertise in React, Next.js, .NET, and Spring Boot. Proven ability to design robust systems, integrate AI-driven features using OpenAI API, and develop reusable front-end components for cross-device compatibility. Skilled in streamlining CI/CD pipelines with GitHub Actions and deploying high-performance services on AWS and Azure. Strong background in Agile development, secure coding practices, and delivering solutions that improve user engagement and system reliability.
         </p>
 
         <div className="buttons">

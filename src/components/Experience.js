@@ -8,10 +8,11 @@ const experiences = [
     duration: "2024-2025",
     Location: "Maryland, USA",
     description: [
-      "Engineered a scalable microservices-based media platform connecting creators and publishers, using Next.js, Bootstrap, and .NET APIs, improving UI responsiveness and backend efficiency.",
-      "Applied design patterns and architectural principles to optimize system reliability, resulting in a 19% reduction in backend response times through caching and API refactoring.",
-      "Integrated a chatbot using OpenAI API, enabling real-time user interaction and reducing manual searches by 63% for content and improving accessibility.",
-      "Led secure system design by implementing OAuth 2.0 and JWT for role-based access and API protection."
+      "Engineered a scalable, microservices-based media platform using Next.js and .NET Core REST APIs, improving UI responsiveness and backend throughput.",
+      "Constructed 20+ modular and reusable frontend components in Next.js using HTML5, CSS3, and JavaScript (ES6+) with cross-device compatibility which reduced page bounce rate by 28%. ",
+      "Deployed an AI-driven chatbot leveraging OpenAI API, achieving a 63% increase in user session duration through personalized content recommendations and prompt-based content generation.",
+      "Managed content workflows via WordPress CMS, automating updates and reducing editorial effort by 40%.",
+      "Developed 25+ secure, scalable .NET Core backend APIs enhanced with JWT-based authentication middleware and facilitated comprehensive documentation and testing using Swagger."
       
     ],
     //logo: "/images/syndex.png"
@@ -19,27 +20,19 @@ const experiences = [
   {
     company: "Infosys",
     role: "Senior Systems Engineer",
-    duration: "2022 — 2023",
+    duration: "2021 — 2023",
     Location: "Hyderabad, India",
     description: [
-      "Designed and coded a real-time server monitoring and alerting system using React and Spring Boot, enabling early detection of system failures and reducing incident response time",
-      "Built interactive dashboards with real-time system metrics and integrated logging tools to monitor CPU usage, memory consumption",
-      "Optimized PostgreSQL database queries with indexing and partitioning, reducing query latency by 30% for high-volume analytics dashboards."
+      "Designed a real-time telemetry dashboard using React (Hooks + Context API) and Spring Boot, enabling live monitoring of vehicle health, location, and alerts for 10,000+ global fleet units.",
+      "Orchestrated Spring Boot microservices to capture and process engine diagnostics (RPM, oil temp, battery voltage), and integrated Kafka for real-time alert streaming.",
+      "Implemented smart fault detection and alerting mechanisms, reducing unplanned maintenance by 20% through early detection of critical issues.",
+      "Optimized PostgreSQL queries using indexing, partitioning, and async logic, cutting dashboard latency by 30% across 100K+ data records.",
+      "Containerized backend services using Docker and automated CI/CD pipelines with Jenkins, streamlining delivery to QA and staging environments.",
+      "Deployed services on AWS (EC2, Lambda, RDS, S3) with built-in monitoring and alerting to ensure observability, scalability, and system uptime."
     ],
     //logo: "/images/infosys.png"
   },
-  {
-    company: "Infosys",
-    role: "Systems Engineer",
-    duration: "2021 — 2022",
-    Location: "Hyderabad, India",
-    description: [
-      "Developed and tailored 15+ ABAP programs, reports, and interfaces to align with business requirements, ensuring integration with SAP modules.",
-      "Restructured database designs, improving system performance and data retrieval efficiency by 20%.",
-      "Improved SAP transactions using BADI and BAPI within the Enhancement Framework, boosting efficiency by 15%."
-    ],
-    //logo: "/images/infosys.png"
-  }
+  
 ];
 
 const Experience = () => {
