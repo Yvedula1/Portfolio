@@ -5,13 +5,13 @@ const educationData = [
   {
     university: "George Mason University",
     degree: "Master of Science in Computer Science",
-    duration: "2023 — 2024",
+    
     logo: "/images/gmu.png"
   },
   {
     university: "Vignan's Institute Of Information Technology",
     degree: "Bachelor of Technology in Electronics & Communications",
-    duration: "2016 — 2020",
+   
     logo: "/images/Vignan.png"
   }
 ];
