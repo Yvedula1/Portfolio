@@ -7,13 +7,8 @@ const educationData = [
     degree: "Master of Science in Computer Science",
     
     logo: "/images/gmu.png"
-  },
-  {
-    university: "Vignan's Institute Of Information Technology",
-    degree: "Bachelor of Technology in Electronics & Communications",
-   
-    logo: "/images/Vignan.png"
   }
+
 ];
 
 const Education = () => {

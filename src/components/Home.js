@@ -16,9 +16,7 @@ Full Stack Developer with 4+ years of experience building scalable enterprise ap
       </div>
 
       {/* Right Section - Profile Image */}
-      <div className="right-section">
-        <img src="/images/Profile.jpg" alt="Profile" className="profile-img" />
-      </div>
+     
     </section>
   );
 };
